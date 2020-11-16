@@ -1,0 +1,7 @@
+abc
+123
+Hi Fede and Marcelo :)
+
+Es posible que cuando intenten abrir el programa, tengan que instalar Python y otras dependencias necesarias para que funcione. Con el fin de ahorrarles estas molestias, les muestro en este video como funciona el programa. Para ver el código, basta con darle botón derecho al archivo script.py y luego editar.
+
+¡Saludos!
